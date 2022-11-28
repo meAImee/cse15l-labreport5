@@ -61,6 +61,10 @@ About
 
 ## Screenshots:
 **Screenshot 1**
+![1](https://github.com/meAImee/cse15l-labreport5/raw/main/1.png)
 
 **Screenshot 2**
+![2](https://github.com/meAImee/cse15l-labreport5/raw/main/2.png)
+
 **Screenshot 3**
+![3](https://github.com/meAImee/cse15l-labreport3/raw/main/3.png)
