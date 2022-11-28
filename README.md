@@ -67,4 +67,4 @@ About
 ![2](https://github.com/meAImee/cse15l-labreport5/raw/main/2.png)
 
 **Screenshot 3**
-![3](https://github.com/meAImee/cse15l-labreport3/raw/main/3.png)
+![3](https://github.com/meAImee/cse15l-labreport5/raw/main/3.png)
